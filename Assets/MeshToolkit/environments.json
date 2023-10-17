@@ -1,0 +1,21 @@
+{
+  "uploadEntries": [
+    {
+      "assetId": "3f41041c-f6b3-49d9-8a86-7fe2015a261e",
+      "name": "MeshPuzzleWorld",
+      "isEnabled": true,
+      "uploadItems": [
+        {
+          "prefabFilepath": "Assets/MeshPuzzle/Scenes/MeshPuzzle.unity",
+          "forAndroid": true,
+          "forWin": true
+        }
+      ],
+      "perPlatformAssets": false,
+      "thumbnailImagesFolder": "Assets\\MeshToolkit\\Thumbnails\\3f41041c",
+      "includeThumbnail": true,
+      "thumbnailGenerationBehavior": "Autogenerate",
+      "metaverseId": "db4b15c0-3649-4058-bd3e-bc27f661318c"
+    }
+  ]
+}
