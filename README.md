@@ -1,6 +1,10 @@
 # Introduction 
 MeshPuzzleWorld is an example game made with Mesh Visual Scripting.
 # Getting Started
+
+Please follow microsoft link too getting started with development for Microsoft Mesh
+https://learn.microsoft.com/en-us/mesh/develop/development-overview
+
 ![alt A screenshot of the mesh sample](README/mesh-puzzle-shot.png)
 
 # Build and Publish
