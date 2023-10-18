@@ -1,7 +1,7 @@
 # Introduction 
 MeshPuzzleWorld is an example game made with Mesh Visual Scripting.
 # Getting Started
-
+![alt A screenshot of the mesh sample](README/mesh-puzzle-shot.png)
 
 # Build and Publish
 
