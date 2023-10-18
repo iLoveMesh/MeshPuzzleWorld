@@ -1,6 +1,6 @@
 # Introduction 
 
-MeshPuzzleWorld is an example puzzle game made to demonstate both Mesh physics and networking with Visual Scripts.
+MeshPuzzleWorld is an example puzzle game made to demonstate both Mesh physics and Visual Scripting.
 
 # Getting Started
 
